@@ -1,0 +1,2 @@
+将要上传的图片放到photos，用python编译器编译imageProcess.py和tool.py。后将生成的data.json数据复制到Hexo的
+soures里的photos中，先将hexo博客图片上传再部署博客
